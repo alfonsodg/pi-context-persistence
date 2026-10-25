@@ -20,5 +20,8 @@
     "type": "git",
     "url": "https://github.com/alfonsodg/pi-context-persistence.git"
   },
-  "author": "Alfonso de la Guarda Reyes <alfonsodg@gmail.com>"
+  "author": "Alfonso de la Guarda Reyes <alfonsodg@gmail.com>",
+  "devDependencies": {
+    "@mariozechner/pi-coding-agent": "^0.73.1"
+  }
 }
