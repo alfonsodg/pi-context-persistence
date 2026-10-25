@@ -16,6 +16,10 @@ content into the compaction summary.
 
 Place in `~/.pi/agent/extensions/` or reference via `pi install`.
 
+## Author
+
+Alfonso de la Guarda Reyes <alfonsodg@gmail.com>
+
 ## License
 
 MIT
