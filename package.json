@@ -8,10 +8,17 @@
     "build": "tsc --noEmit",
     "test": "echo 'no tests yet'"
   },
-  "keywords": ["pi", "extension", "context", "compaction", "agents-md"],
+  "keywords": [
+    "pi",
+    "extension",
+    "context",
+    "compaction",
+    "agents-md"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/alfonsodg/pi-context-persistence.git"
-  }
+  },
+  "author": "Alfonso de la Guarda Reyes <alfonsodg@gmail.com>"
 }
